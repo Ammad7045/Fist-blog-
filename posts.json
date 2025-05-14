@@ -1,0 +1,13 @@
+
+[
+  {
+    "title": "My First Blog Post",
+    "date": "2025-05-13",
+    "content": "This is my first blog post. Welcome to my blog!"
+  },
+  {
+    "title": "Learning HTML & CSS",
+    "date": "2025-05-14",
+    "content": "Today I learned how to build a website using HTML and CSS."
+  }
+]
